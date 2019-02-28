@@ -84,5 +84,6 @@ html {
     }
 
     .panel.open {
-      font-size: 40px;
+        flex-grow: 5;
+        font-size: 40px;
     }
